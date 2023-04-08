@@ -30,7 +30,7 @@
 		<a href="#"><i class="fa-solid fa-circle-user"></i></a>
 		<div class="profile-info">
 			<span>Olá, <?php echo $nome ?></span>
-			<a href="#">Sair</a>
+			<a href="logout.php">Sair</a>
 		</div>
 		</div>
 	</nav>
@@ -38,7 +38,7 @@
     <section class="card">
       <img src="pc.png">
     </section>
-    <div class="clolumn">
+    <div class="column">
       <h1>Monte seu Computador</h1>
       <form>
         <label for="memoriaP">Memória</label>
