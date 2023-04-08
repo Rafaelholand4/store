@@ -44,7 +44,9 @@
     </a>
 			<h2>Monte seu Notebook</h2>
 			<p>Aqui na InfoTech, você pode montar seu noteboook do jeito que sempre sonhou!</p>
-			<button>Montar Agora</button>
+			<a href="notebook.php">
+				<button>Montar Agora</button>
+			</a>
 		</section>
 
 		<section class="card">
