@@ -35,7 +35,7 @@
 		</div>
 	</nav>
   <div class="container">
-    <section class="card">
+    <section class="cardV">
       <img src="pc.png">
     </section>
     <div class="column">
