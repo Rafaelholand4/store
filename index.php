@@ -53,7 +53,9 @@
     </a>
 			<h2>Monte seu PC</h2>
 			<p>Já sonhou em ter aquele PC do seu jeitinho?</p>
-			<button>Montar Agora</button>
+			<a href="pc.php">
+				<button>Montar Agora</button>
+			</a>
 		</section>
 	</main>
  
