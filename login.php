@@ -4,8 +4,9 @@
 
 	<head>
    		<meta charset="utf-8">
-    	<title>Minha tela de login</title>
-    	<link rel="stylesheet" href="styles.css">
+    		<title>Minha tela de login</title>
+    		<link rel="stylesheet" href="styles.css">
+		<script src="script.js"></script>
   	</head>
 
 	<body>
@@ -18,6 +19,5 @@
 				<input type="submit" value="ENVIAR">
 			</form>
 		</div>
-		<script src="script.js"></script>
 	</body>
 </html>
